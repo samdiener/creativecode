@@ -7,133 +7,133 @@ function setup() {
 function draw() {
   background(0);
 
-  let a=10;
+  let a = 10;
 
-  fill(255,255,255,5);
-  ellipse(width/2,height/2,a,a);
+  fill(255, 255, 255, 5);
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-    a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-    a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-    a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
-  a+=10;
-  ellipse(width/2,height/2,a,a);
+  a += 10;
+  ellipse(width / 2, height / 2, a, a);
 
 
 
