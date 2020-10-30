@@ -32,7 +32,7 @@ var temperature;
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
-	let url = 'https://api.weatherstack.com/current?access_key='+key+'&query=Zürich'; //Achtung gratis key unterstützt SSL nicht
+	let url = 'http://api.weatherstack.com/current?access_key='+key+'&query=Zürich'; //Achtung gratis key unterstützt SSL nicht
   loadJSON(url, gotWeather);
 
 
