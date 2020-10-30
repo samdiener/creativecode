@@ -3,7 +3,7 @@
 let key='06e280b15621fb57f14de8e91c05e79e';
 let input, button;
 
-var gui;
+// var gui;
 
 var punktexpander = 20;
 var punktexpanderMin = 1;
@@ -41,9 +41,9 @@ function setup() {
 	//input ende
   noStroke();
 
-    sliderRange(0, 50, 1)
-    gui = createGui('GUI');
-    gui.addGlobals ('punktexpander','circules');
+  //  sliderRange(0, 50, 1)
+  //  gui = createGui('GUI');
+  //  gui.addGlobals ('punktexpander','circules');
     b1 = color(255,235,0);
     b2 = color(255,120,0);
 
