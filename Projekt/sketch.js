@@ -183,7 +183,7 @@ function reloadJson(){
     // reload JSon kreiert eine neue url für die API mit dem Ort, den die User eingegeben haben
 
     let ort = input.value();
-    let url = 'http://api.weatherstack.com/current?access_key='+key+'&query='+ort;
+    let url = 'https://api.weatherstack.com/current?access_key='+key+'&query='+ort;
 
     // dann lädt die Funktion gotWeather diese neuen Daten
     loadJSON(url, gotWeather);
